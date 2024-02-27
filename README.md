@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bishwamitre
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python as beginner 
+- 👀 I’m intermediate in Python
+- 🌱 I’m currently learning C++ as beginner 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
