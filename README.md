@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishwamitre&show_icons=true&locale=en&layout=compact&&size_weight=0.5&count_weight=0.5&&langs_count=6&theme=dark" alt="bishwamitre" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwamitre&show_icons=true&locale=en&theme=dark&hide=contribs,issues,stars&show=reviews,prs_merged_percentage" alt="bishwamitre" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwamitre&show_icons=true&locale=en&theme=dark&hide=contribs,issues,stars&show=reviews,prs_merged_percentage&rank_icon=github" alt="bishwamitre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwamitre&theme=dark" alt="bishwamitre" /></p>
