@@ -4,7 +4,7 @@ bishwamitre/bishwamitre is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi , I'm Bishwa Mitre</h1>
-I'm passionate about the potential of artificial intelligence and machine learning to solve complex problems and make a positive impact on the world.
+<p align="center"> I'm passionate about the potential of artificial intelligence and machine learning to solve complex problems and make a positive impact on the world.</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwamitre&theme=dark_dimmed" alt="bishwamitre" /></a> </p>
 
